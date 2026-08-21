@@ -40,9 +40,9 @@ I am a cybersecurity professional with CompTIA Security+, PenTest+, Network Vuln
 
 | Project | Cybersecurity Skills Demonstrated | Status |
 |---|---|---|
-| Security Audit and Risk Assessment | Asset identification, risk analysis, security controls | Complete |
-| Linux Permissions and System Hardening | Least privilege, access control, secure configuration | Complete |
-| SQL Security Investigation | Log queries, filtering, suspicious-activity analysis | Complete |
+| [Security Audit and Risk Assessment](https://github.com/MHossainCyber/security-audit-risk-assessment) | Asset identification, risk analysis, security controls | Completed |
+| [Linux Permissions and System Hardening](https://github.com/MHossainCyber/linux-permissions-system-hardening) | Least privilege, Bash scripting, access control, secure configuration | Completed |
+| [SQL Security Investigation](https://github.com/MHossainCyber/sql-security-investigation) | SQL queries, joins, filtering, timelines, and suspicious-activity analysis | Completed |
 | SIEM Monitoring with Splunk | Log analysis, dashboards, alerts, incident triage | Planned |
 | Network Security Assessment | Segmentation, firewall concepts, threat identification | Planned |
 
